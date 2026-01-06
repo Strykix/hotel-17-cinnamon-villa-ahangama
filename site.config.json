@@ -1,0 +1,212 @@
+{
+  "hotelName": "17 Cinnamon Villa Ahangama",
+  "slug": "17-cinnamon-villa-ahangama",
+  "template": "tropical",
+  "data": {
+    "name": "17 Cinnamon Villa Ahangama",
+    "zone": "Ahangama",
+    "phone": "077 052 2798",
+    "booking_url": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Sri+Lanka",
+    "booking_search": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Sri+Lanka",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?cid=1945023586900820014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "17 Kuruduwaththa Road, Ahangama, Sri Lanka"
+  },
+  "options": {
+    "static": true,
+    "skipPhotos": false,
+    "deploy": false
+  },
+  "content": {
+    "siteSettings": {
+      "name": "17 Cinnamon Villa Ahangama",
+      "tagline": "Your escape in Ahangama, Sri Lanka",
+      "contact": {
+        "phone": "077 052 2798",
+        "whatsapp": "0770522798",
+        "email": "info@17-cinnamon-villa-ahangama.com",
+        "address": "17 Kuruduwaththa Road, Ahangama, Sri Lanka"
+      },
+      "booking": {
+        "url": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Ahangama+Sri+Lanka",
+        "buttonText": "Book Now"
+      },
+      "social": {
+        "instagram": "",
+        "googleMaps": "https://maps.google.com/?cid=1945023586900820014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "seo": {
+        "title": "17 Cinnamon Villa Ahangama | Beachfront Hotel in Ahangama, Sri Lanka",
+        "description": "Experience paradise at 17 Cinnamon Villa Ahangama. Steps from the beach Ahangama, Sri Lanka. Perfect for surfers and beach lovers."
+      },
+      "mainImage": "/images/hotel/photo-01.jpg"
+    },
+    "homepage": {
+      "hero": {
+        "title": "Welcome to 17 Cinnamon Villa Ahangama",
+        "subtitle": "Your beachfront escape in Ahangama",
+        "ctaText": "Book Your Stay",
+        "ctaUrl": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Ahangama+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-01.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Nestled along the beautiful coast of Ahangama, 17 Cinnamon Villa Ahangama offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+        "image": "/images/hotel/photo-02.jpg"
+      },
+      "features": [
+        {
+          "title": "Beachfront Location",
+          "description": "Steps away from pristine sandy beaches",
+          "icon": "location"
+        },
+        {
+          "title": "Local Experience",
+          "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+          "icon": "culture"
+        },
+        {
+          "title": "Surf Paradise",
+          "description": "Access to world-renowned surf breaks",
+          "icon": "surf"
+        }
+      ],
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Discover our paradise",
+        "images": [
+          {
+            "src": "/images/hotel/photo-01.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 1",
+            "caption": "17 Cinnamon Villa Ahangama"
+          },
+          {
+            "src": "/images/hotel/photo-02.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 2",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 2"
+          },
+          {
+            "src": "/images/hotel/photo-03.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 3",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 3"
+          },
+          {
+            "src": "/images/hotel/photo-04.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 4",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 4"
+          },
+          {
+            "src": "/images/hotel/photo-05.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 5",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 5"
+          },
+          {
+            "src": "/images/hotel/photo-06.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 6",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 6"
+          },
+          {
+            "src": "/images/hotel/photo-07.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 7",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 7"
+          },
+          {
+            "src": "/images/hotel/photo-08.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 8",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 8"
+          },
+          {
+            "src": "/images/hotel/photo-09.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 9",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 9"
+          },
+          {
+            "src": "/images/hotel/photo-10.jpg",
+            "alt": "17 Cinnamon Villa Ahangama - Photo 10",
+            "caption": "17 Cinnamon Villa Ahangama - Vue 10"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready for Paradise?",
+        "description": "Book your stay at 17 Cinnamon Villa Ahangama and discover the magic of Ahangama.",
+        "buttonText": "Check Availability",
+        "buttonUrl": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Ahangama+Sri+Lanka",
+        "backgroundImage": "/images/hotel/photo-10.jpg"
+      }
+    },
+    "footer": {
+      "copyright": "2026 17 Cinnamon Villa Ahangama. All rights reserved.",
+      "address": "17 Kuruduwaththa Road, Ahangama, Sri Lanka",
+      "phone": "077 052 2798"
+    },
+    "gallery": [
+      {
+        "src": "/images/hotel/photo-01.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 1",
+        "caption": "17 Cinnamon Villa Ahangama"
+      },
+      {
+        "src": "/images/hotel/photo-02.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 2",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 2"
+      },
+      {
+        "src": "/images/hotel/photo-03.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 3",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 3"
+      },
+      {
+        "src": "/images/hotel/photo-04.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 4",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 4"
+      },
+      {
+        "src": "/images/hotel/photo-05.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 5",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 5"
+      },
+      {
+        "src": "/images/hotel/photo-06.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 6",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 6"
+      },
+      {
+        "src": "/images/hotel/photo-07.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 7",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 7"
+      },
+      {
+        "src": "/images/hotel/photo-08.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 8",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 8"
+      },
+      {
+        "src": "/images/hotel/photo-09.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 9",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 9"
+      },
+      {
+        "src": "/images/hotel/photo-10.jpg",
+        "alt": "17 Cinnamon Villa Ahangama - Photo 10",
+        "caption": "17 Cinnamon Villa Ahangama - Vue 10"
+      }
+    ]
+  },
+  "bookingUrl": "https://www.booking.com/searchresults.html?ss=17+Cinnamon+Villa+Ahangama+Ahangama+Sri+Lanka",
+  "photos": [
+    "photo-01.jpg",
+    "photo-02.jpg",
+    "photo-03.jpg",
+    "photo-04.jpg",
+    "photo-05.jpg",
+    "photo-06.jpg",
+    "photo-07.jpg",
+    "photo-08.jpg",
+    "photo-09.jpg",
+    "photo-10.jpg"
+  ],
+  "generatedAt": "2026-01-06T23:22:54.429Z"
+}
